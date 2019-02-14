@@ -51,7 +51,6 @@ public class minion
         
     }
     
-    //Broken somehow
     public static int DFS(boolean matrix[][], boolean visited[], int current, int numNodes)
     {
         visited[current] = true;
